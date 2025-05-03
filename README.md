@@ -45,7 +45,7 @@ git clone https://github.com/martinekong/javascript-1-ca.git
 ## Deployment
 
 This site is deployed using GitHub pages:  
-🔗 [Rainydays store](https://martinekong.github.io/javascript-1-ca/)
+🔗 [Rainydays store](https://martinekong.github.io/FED1-JS1-CA/)
 
 ## Contact
 
